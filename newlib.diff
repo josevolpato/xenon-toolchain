@@ -1,0 +1,17 @@
+--- newlib-3.2.0/config.sub	2020-10-14 00:02:16.653546900 -0300
++++ newlib-3.2.0/config.sub	2020-10-13 23:54:24.502722600 -0300
+@@ -628,6 +628,14 @@
+ 				basic_machine=i686-pc
+ 				os=mingw32
+ 				;;
++			ppu)
++				basic_machine=powerpc64-unknown
++				os=none
++				;;
++			xenon)
++				basic_machine=powerpc64-unknown
++				os=none
++				;;
+ 			ymp)
+ 				basic_machine=ymp-cray
+ 				os=unicos

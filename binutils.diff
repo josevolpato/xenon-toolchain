@@ -1,0 +1,13 @@
+--- binutils-2.35/config.sub	2020-09-29 01:51:45.482471700 -0300
++++ binutils-2.35/config_sub	2020-09-30 20:50:07.835950300 -0300
+@@ -625,6 +625,10 @@
+ 				basic_machine=i686-pc
+ 				os=mingw32
+ 				;;
++			xenon)
++				basic_machine=powerpc64-unknown
++				os=linux-gnu
++				;;
+ 			ymp)
+ 				basic_machine=ymp-cray
+ 				os=unicos
