@@ -92,7 +92,7 @@ Xenon toolchain for Xbox 360 homebrew development.
 
 ### Proceed with libxenon building
 After download or build the toolchain, you'll like to build
-[libxenon]() too!
+[libxenon](https://github.com/josevolpato/libxenon) too!
 
 ## References and acknowledgements
 [MSYS2](https://www.msys2.org/)  

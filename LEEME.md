@@ -91,7 +91,7 @@ Herramientas de compilación Homebrew para Xbox360.
   ```
 
 ### Continuar con la construcción de libxenon
-Después de descargar / construir la cadena de herramientas, le gustará construir [libxenon]() también!
+Después de descargar / construir la cadena de herramientas, le gustará construir [libxenon](https://github.com/josevolpato/libxenon) también!
 
 ## Referencias y agradecimientos
 [MSYS2](https://www.msys2.org/)  
