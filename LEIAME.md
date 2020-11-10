@@ -5,9 +5,9 @@
 Ferramentas para compilação de homebrew para o Xbox360.
 
 ## Distribuição de binários pré-compilados (64 bits apenas)
-* [Windows]()
-* [Linux]()
-* [Mac OS X]()
+* [Windows](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-windows-x86_64-pc-msys2.7z)
+* [Linux](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-linux-x86_64-pc-linux-gnu.7z)
+* [Mac OS X](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-macosx-x86_64-apple-darwin.7z)
 
 ## Instruções para construção manual das ferramentas
 *** Verifique as permissões de usuário para o diretório /usr/local/ ***
@@ -105,4 +105,4 @@ Após baixar ou construir as ferramentas de compilação, você provavelmente va
 [acabey](https://github.com/acabey/libxenon)  
 
 ## Licença
- 
+![license](https://img.shields.io/badge/license-GLP-green)

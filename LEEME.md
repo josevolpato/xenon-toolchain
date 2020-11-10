@@ -5,9 +5,9 @@
 Herramientas de compilación Homebrew para Xbox360.
 
 ## Versiones de binarios precompilados (solamente 64 bits)
-* [Windows]()
-* [Linux]()
-* [Mac OS X]()
+* [Windows](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-windows-x86_64-pc-msys2.7z)
+* [Linux](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-linux-x86_64-pc-linux-gnu.7z)
+* [Mac OS X](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-macosx-x86_64-apple-darwin.7z)
 
 ## Instrucciones de script de compilación manual
 *** Preste atención a los permisos de usuario disponibles en el directorio /usr/local/ ***
@@ -94,14 +94,15 @@ Herramientas de compilación Homebrew para Xbox360.
 Después de descargar / construir la cadena de herramientas, le gustará construir [libxenon]() también!
 
 ## Referencias y agradecimientos
-[MSYS2]()  
-[GCC]()  
-[Homebrew]()  
-[ge0rg]()  
-[Free60]()  
-[Xenia]()  
-[acabey]()  
-[libxenon]()  
+[MSYS2](https://www.msys2.org/)  
+[GCC](https://gcc.gnu.org/)  
+[Binutils](https://www.gnu.org/software/binutils/)
+[Newlib](https://sourceware.org/newlib/)
+[Homebrew](https://brew.sh/)  
+[ge0rg](https://github.com/ge0rg/libxenon)  
+[Free60](https://github.com/Free60Project)  
+[Xenia](https://github.com/xenia-project/libxenon)  
+[acabey](https://github.com/acabey/libxenon)  
 
 ## Licencia
- 
+![license](https://img.shields.io/badge/license-GLP-green)

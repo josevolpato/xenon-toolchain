@@ -5,9 +5,9 @@ English | [Español](LEEME.md) | [Português brasileiro](LEIAME.md)
 Xenon toolchain for Xbox 360 homebrew development.
 
 ## Precompiled binaries releases (64 bits only)
-* [Windows]()
-* [Linux]()
-* [Mac OS X]()
+* [Windows](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-windows-x86_64-pc-msys2.7z)
+* [Linux](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-linux-x86_64-pc-linux-gnu.7z)
+* [Mac OS X](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-macosx-x86_64-apple-darwin.7z)
 
 ## Manual build script instructions
 *** Pay attention to avaliable user permissions on /usr/local/ directory ***
@@ -106,3 +106,4 @@ After download or build the toolchain, you'll like to build
 [acabey](https://github.com/acabey/libxenon)  
 
 ## License
+![license](https://img.shields.io/badge/license-GLP-green)
