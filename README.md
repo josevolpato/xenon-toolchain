@@ -97,8 +97,8 @@ After download or build the toolchain, you'll like to build
 ## References and acknowledgements
 [MSYS2](https://www.msys2.org/)  
 [GCC](https://gcc.gnu.org/)  
-[Binutils](https://www.gnu.org/software/binutils/)
-[Newlib](https://sourceware.org/newlib/)
+[Binutils](https://www.gnu.org/software/binutils/)  
+[Newlib](https://sourceware.org/newlib/)  
 [Homebrew](https://brew.sh/)  
 [ge0rg](https://github.com/ge0rg/libxenon)  
 [Free60](https://github.com/Free60Project)  
