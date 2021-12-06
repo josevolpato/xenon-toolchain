@@ -2,7 +2,7 @@
 English | [Español](LEEME.md) | [Português brasileiro](LEIAME.md)
 
 ## Description
-Xenon toolchain for Xbox 360 homebrew development.
+Xenon toolchain (GCC 10.2.0, Binutils 2.35, NewLib 3.2.0) for Xbox 360 homebrew development.
 
 ## Precompiled binaries releases (64 bits only)
 * [Windows](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-windows-x86_64-pc-msys2.7z)

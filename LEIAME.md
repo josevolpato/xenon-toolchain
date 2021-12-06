@@ -2,7 +2,7 @@
 [English](README.md) | [Español](LEEME.md) | Português brasileiro
 
 ## Descrição
-Ferramentas para compilação de homebrew para o Xbox360.
+Ferramentas para compilação (GCC 10.2.0, Binutils 2.35, NewLib 3.2.0) de homebrew para o Xbox360.
 
 ## Distribuição de binários pré-compilados (64 bits apenas)
 * [Windows](https://github.com/josevolpato/xenon-toolchain/releases/download/v1.0/xenon-toolchain-windows-x86_64-pc-msys2.7z)
